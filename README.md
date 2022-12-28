@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anil1415
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anil
+-   I am open to work in Canada
+- 👀 I’m updating myself to current techonologies !!
+- 🌱 I’m currently practicing Python and Machine Learning
+- 📫 Reach me on Linkedin https://www.linkedin.com/in/anilreddykunta/
 
 <!---
 Anil1415/Anil1415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
