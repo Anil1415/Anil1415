@@ -1,6 +1,2 @@
-- 👋 Hi, I’m Anil
--   I am open to work in Canada
-- 👀 I’m interested in Data Engineering, Data Analyst, Machine Learning Engineer roles.
-- 🌱 I’m currently learning Data Engineering.
--  I’m looking to collaborate on Big Data challenges.
-- 📫 Reach me on Linkedin https://www.linkedin.com/in/kuntaanil134/ and gmail: kuntaanil134@gmail.com
+- 👋 Hi, I’m Anil.
+- 📫 Reach me on Linkedin https://www.linkedin.com/in/anilk134/ 
